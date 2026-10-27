@@ -14,7 +14,7 @@
 
 ## About
 
-Senior engineer with 4+ years shipping production software across e-commerce, fintech, blockchain, CRM and AI products. Recently focused on AI-native SaaS: multi-tenant platforms where LLMs read documents, make decisions and hand clean, structured data to the rest of the system.
+Senior engineer with 5+ years shipping production software across e-commerce, fintech, blockchain, CRM and AI products. Recently focused on AI-native SaaS: multi-tenant platforms where LLMs read documents, make decisions and hand clean, structured data to the rest of the system.
 
 - Design and own systems from first architecture sketch through deployment on AWS
 - Build agentic workflows with **LangGraph**, **LangChain** and **FastAPI**
