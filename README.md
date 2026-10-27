@@ -76,11 +76,11 @@ Most of my work lives in private client repositories, so here is what I have shi
 
 Public repositories worth a look:
 
-- [**nextjs-starter-template**](https://github.com/ahmed-dev-chain/nextjs-starter-template) - Next.js starter in TypeScript
-- [**jarvis**](https://github.com/ahmed-dev-chain/jarvis) - Python project
-- [**nextjs-app-router-socket-implementation**](https://github.com/ahmed-dev-chain/nextjs-app-router-socket-implementation) - How to run WebSockets alongside the Next.js App Router
-- [**whatsapp-automation-bot**](https://github.com/ahmed-dev-chain/whatsapp-automation-bot) - WhatsApp bot in JavaScript
-- [**foundry-fund-me**](https://github.com/ahmed-dev-chain/foundry-fund-me) - Solidity project built with Foundry
+- [**nextjs-starter-template**](https://github.com/ahmed-dev-chain/nextjs-starter-template) - Production-ready Next.js 16 starter with App Router, Tailwind CSS 4 and auth-ready architecture
+- [**nextjs-app-router-socket-implementation**](https://github.com/ahmed-dev-chain/nextjs-app-router-socket-implementation) - Real-time chat with a custom WebSocket server alongside the Next.js App Router
+- [**jarvis**](https://github.com/ahmed-dev-chain/jarvis) - Modular Python voice assistant with wake-word activation and text-to-speech
+- [**whatsapp-automation-bot**](https://github.com/ahmed-dev-chain/whatsapp-automation-bot) - WhatsApp bot built on whatsapp-web.js, Puppeteer and MongoDB
+- [**car-parking-reservation**](https://github.com/ahmed-dev-chain/car-parking-reservation) - Parking reservation app with JWT auth: Next.js 15, MongoDB, Material UI
 
 ## Let's Talk
 
